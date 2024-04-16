@@ -7,9 +7,9 @@
 
 - 💬 Ask me about *reactJS, nodeJS, JS*
 
-- 📫 How to reach me *HardeepKAur@gmail.com*
+- 📫 How to reach me *hardeepkaur27682@gmail.com*
 
-- ⚡ Fun fact *I think I am cool.*
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
